@@ -1,29 +1,20 @@
 <div align="center">
 
 
-
-
 # 안녕하세요! 😊
 
+![깃허브꾸미기최종](https://github.com/user-attachments/assets/25df19c4-7318-4464-a361-ae678bb93bd1)
+
+
+<br/>
 <h3>프론트엔드 개발자를 꿈꾸는 김대운입니다.<br /><br />
+
+<br/>
+<br/>
 <img src="https://blog.kakaocdn.net/dn/lurC0/btsI1SevFTg/pBpZ7B9rKo4APwx36kSxLk/img.gif"/>
 <br/>
 <br/>
 
-## 🎯 About Me
-<br/>
-<i><b> 웹 개발에 대한 열정과 끊임없는 학습을 추구합니다! <br/>
-<br/>
-<i> 사용자 경험을 중요시하며 깔끔한 코드 작성을 지향합니다.<br/>
-<br/>
-<i> 새로운 기술을 배우는 것을 좋아합니다.<br/>
-<br/>
-<i> 다양한 개발자와 협업하는 것을 좋아합니다.<br/>
-<br/>
-<i> 스스로 기술을 습득하여 결과물로 만드는 것을 목표로 합니다.<br/>
-<br/>
-<br/>
-<br/>
 
 ## 🛠 Tech Stack
 ### Frontend
@@ -52,4 +43,4 @@
 ## 📫 Contact
 <b> Email: min434soo@gmail.com 🌍 <br/>
 <b> Instagram : @kdu._.06 🌏 <br/>
-<b> Velog : kdu_06 🌎****
+<b> Velog : kdu_06 🌎
